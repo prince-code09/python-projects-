@@ -5,13 +5,13 @@ This game is made by using python
 ## features
 user vs computer game 
 match tie detection
-depend on user input , try again or end game 
+play again option 
 wrong input detection 
 
 
 ## technologies used 
 python 
-module (random module )
+random module 
 
 
 ## author 
